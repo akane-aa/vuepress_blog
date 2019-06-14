@@ -1,4 +1,4 @@
 module.exports = {
   title: "avelog95",
-  description: "こんにちは、せかい"
+  description: "駆け出しエンジニアの備忘録"
 };
