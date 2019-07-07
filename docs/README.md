@@ -2,4 +2,4 @@
 home: true
 ---
 
-# はじめまして。
+<PostList />
