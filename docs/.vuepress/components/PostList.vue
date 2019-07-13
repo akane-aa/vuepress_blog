@@ -5,7 +5,7 @@
         <a v-bind:href="post.path">{{ post.title }}</a>
       </h2>
       <p>{{ post.frontmatter.description }}</p>
-      <a v-bind:href="post.path">続きを読む</a>
+      <a v-bind:href="post.path">続きを読む！</a>
     </div>
   </div>
 </template>
